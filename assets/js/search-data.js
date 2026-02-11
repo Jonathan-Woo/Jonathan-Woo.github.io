@@ -50,18 +50,18 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/jonathan-ck-woo", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0009-0001-6950-0041", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=F7nip1EAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/jonathan_ck_woo", "_blank");
         },
       },{
       id: 'light-theme',
